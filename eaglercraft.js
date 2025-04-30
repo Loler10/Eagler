@@ -1,0 +1,1 @@
+// Placeholder for eaglercraft.js (real client required)
